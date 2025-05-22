@@ -1,2 +1,2 @@
-
-Detection&filter/meme_filter/.env
+*.env
+.env
